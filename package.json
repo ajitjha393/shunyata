@@ -1,0 +1,12 @@
+{
+  "name": "shunyata",
+  "version": "1.0.0",
+  "description": "Shunyata — the void where style takes form. A minimal, intelligent CSS-in-JS parser with autocompletion and flow",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["typescript", "css-in-js", "parser", "theme", "type-level", "color"],
+  "author": "Bishwajit Jha <ajitjha393@gmail.com>",
+  "license": "MIT"
+}
